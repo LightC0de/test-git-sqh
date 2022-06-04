@@ -1,4 +1,7 @@
-let a = 2;
-let bbb = 3;
+function getSum(a, b) {
+    const res = a + b;
+    console.log('sum: ', res);
+    return res;
+}
 
-console.log(a * bbb);
+getSum(2, 3);
