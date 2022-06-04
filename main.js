@@ -1,4 +1,4 @@
-const a = 2;
-const b = 3;
+let a = 2;
+let bbb = 3;
 
-console.log(a + b);
+console.log(a * b);
